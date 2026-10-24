@@ -1,0 +1,462 @@
+{
+  "projet": "CompressLab Archive",
+  "matiere": "Codage et traitement de signal",
+  "annee": 2026,
+  "algorithmes": [
+    "LZ77",
+    "Codage Arithmétique",
+    "Pipeline Combiné"
+  ],
+  "etudiants": [
+    {
+      "id": 1,
+      "nom": "Candidate_1",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Candidate_2",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Candidate_3",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 4,
+      "nom": "Candidate_4",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 5,
+      "nom": "Candidate_5",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 6,
+      "nom": "Candidate_6",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 7,
+      "nom": "Candidate_7",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 8,
+      "nom": "Candidate_8",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 9,
+      "nom": "Candidate_9",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 10,
+      "nom": "Candidate_10",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 11,
+      "nom": "Candidate_11",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 12,
+      "nom": "Candidate_12",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 13,
+      "nom": "Candidate_13",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 14,
+      "nom": "Candidate_14",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 15,
+      "nom": "Candidate_15",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 16,
+      "nom": "Candidate_16",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 17,
+      "nom": "Candidate_17",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 18,
+      "nom": "Candidate_18",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 19,
+      "nom": "Candidate_19",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 20,
+      "nom": "Candidate_20",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 21,
+      "nom": "Candidate_21",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 22,
+      "nom": "Candidate_22",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 23,
+      "nom": "Candidate_23",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 24,
+      "nom": "Candidate_24",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 25,
+      "nom": "Candidate_25",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 26,
+      "nom": "Candidate_26",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 27,
+      "nom": "Candidate_27",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 28,
+      "nom": "Candidate_28",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 29,
+      "nom": "Candidate_29",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 30,
+      "nom": "Candidate_30",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 31,
+      "nom": "Candidate_31",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 32,
+      "nom": "Candidate_32",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 33,
+      "nom": "Candidate_33",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 34,
+      "nom": "Candidate_34",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 35,
+      "nom": "Candidate_35",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 36,
+      "nom": "Candidate_36",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 37,
+      "nom": "Candidate_37",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 38,
+      "nom": "Candidate_38",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 39,
+      "nom": "Candidate_39",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 40,
+      "nom": "Candidate_40",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 41,
+      "nom": "Candidate_41",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 42,
+      "nom": "Candidate_42",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 43,
+      "nom": "Candidate_43",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 44,
+      "nom": "Candidate_44",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 45,
+      "nom": "Candidate_45",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 46,
+      "nom": "Candidate_46",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 47,
+      "nom": "Candidate_47",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 48,
+      "nom": "Candidate_48",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 49,
+      "nom": "Candidate_49",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    },
+    {
+      "id": 50,
+      "nom": "Candidate_50",
+      "statut": "Actif",
+      "modules": [
+        "LZ77",
+        "Arithmetique"
+      ]
+    }
+  ]
+}
